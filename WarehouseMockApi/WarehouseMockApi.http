@@ -1,0 +1,6 @@
+@WarehouseMockApi_HostAddress = http://localhost:5063
+
+GET {{WarehouseMockApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ERPMockApi/ERPMockApi.csproj" />
+  <Project Path="GatewayApi.Tests/GatewayApi.Tests.csproj" />
+  <Project Path="GatewayApi/GatewayApi.csproj" />
+  <Project Path="WarehouseMockApi/WarehouseMockApi.csproj" />
+</Solution>

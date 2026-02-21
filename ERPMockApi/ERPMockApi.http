@@ -1,0 +1,6 @@
+@ERPMockApi_HostAddress = http://localhost:5001
+
+GET {{ERPMockApi_HostAddress}}/products/
+Accept: application/json
+
+###
