@@ -9,7 +9,7 @@ Gateway API is merging product data from ERP and Warehouse systems.
 1. Clone the repository on your local system
 
 2. Start mocks:
-   dotnet run --project ERPMockApi --urls http://localhost:5001/scalar/
+   dotnet run --project ERPMockApi --urls http://localhost:5001/scalar/ and 
    dotnet run --project WarehouseMockApi --urls http://localhost:5002/scalar/
 
 3. Generate dev JWT Token: (If you need to create new Token) current token Expires on 2026-05-19
