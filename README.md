@@ -1,5 +1,5 @@
 # Product API Gateway Solution
-Gateway API is fetching, updating, removing and adding product data in ERP and Warehouse systems.
+Gateway API is merging product data from ERP and Warehouse systems.
 
 ## Why used C# .Net
 - Mature ecosystem for enterprise integration
